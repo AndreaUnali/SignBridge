@@ -14,31 +14,7 @@ Speak a sentence, or type one. SignBridge transcribes it, breaks it down the way
 [![Made with OpenCV](https://img.shields.io/badge/rendering-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 
-<br/>
-
-<img src="docs/images/hero.png" alt="SignBridge avatar signing the word THANK" width="620"/>
-
-<sub>A real frame rendered by SignBridge — the avatar mid-sign for <code>THANK</code>.</sub>
-
 </div>
-
-<br/>
-
-## 📖 Table of Contents
-
-- [What is SignBridge?](#-what-is-signbridge)
-- [Key Features](#-key-features)
-- [How It Works](#-how-it-works)
-- [Under the Hood](#-under-the-hood)
-- [The Dataset](#-the-dataset)
-- [Performance](#-performance)
-- [Getting Started](#-getting-started)
-- [Usage Examples](#-usage-examples)
-- [Project Structure](#-project-structure)
-- [Limitations & Roadmap](#-limitations--roadmap)
-- [Contributing](#-contributing)
-- [Team & Acknowledgments](#-team--acknowledgments)
-- [License](#-license)
 
 <br/>
 
@@ -64,29 +40,11 @@ It started as a university engineering project and is now open-sourced end-to-en
 
 ## 🏗️ How It Works
 
-```mermaid
-flowchart LR
-    subgraph OFFLINE["🗂️ Offline — Dataset Preparation (one-time, already shipped in this repo)"]
-        direction LR
-        A[Download WLASL videos<br/>2,000+ glosses · ~21,000 clips] --> B[Extract pose landmarks<br/>MediaPipe Holistic]
-        B --> C[Normalize & serialize<br/>to per-gloss JSON]
-    end
+<p align="center">
+  <img src="docs/images/architecture.png" alt="SignBridge pipeline architecture: WLASL download and pose extraction feeding into the Whisper, spaCy, and animation runtime pipeline" width="720"/>
+</p>
 
-    subgraph RUNTIME["⚙️ Runtime — SignBridge Pipeline (main.py)"]
-        direction LR
-        D[🎙️ Audio file] --> E["Whisper STT<br/>(audio_to_text)"]
-        F[⌨️ Typed sentence] --> G[Raw English text]
-        E --> G
-        G --> H["spaCy NLP<br/>(gen_pose)"]
-        H --> I[Gloss sequence]
-        I --> J["AnimationDirector<br/>PoseLoader + HumanoidRenderer"]
-        J --> K[🎬 Rendered .mp4]
-    end
-
-    C -. "1,917 pose JSON files, shipped in Pose/" .-> J
-```
-
-The top half (dataset preparation) already happened — its output is the `Pose/` folder shipped in this repo. The bottom half is what runs every time you use SignBridge.
+The top row (dataset preparation) already happened — its output is the `Pose/` folder shipped in this repo. The bottom row is what runs every time you use SignBridge: an audio file or typed sentence goes in through Whisper and spaCy, and a rendered sign-language video comes out.
 
 **A worked example**, straight from the actual gloss-conversion logic:
 
@@ -173,17 +131,10 @@ This entire process is **offline and one-time** — it already produced the 1,91
 
 Benchmarked across three machines spanning two architectures (x86_64 and Apple Silicon):
 
-| Hardware | Whisper transcription | Video rendering (OpenCV) | NLP (spaCy) |
-|---|---|---|---|
-| Intel i5-8265U (8th gen) | 5.46s | **24.28s** | 0.10s |
-| Intel i7-12700H | 2.97s | 31.47s | 0.02s |
-| Apple M1 | **0.95s** | 36.44s | 0.02s |
-
-| Hardware | Whisper threads | OpenCV rendering threads |
-|---|---|---|
-| Intel i5-8265U | 22 | 23 |
-| Intel i7-12700H | 83 | **216** |
-| Apple M1 | 5 | 6 |
+<p align="center">
+  <img src="docs/images/perf-timing.png" alt="Bar chart comparing Whisper transcription, video rendering, and NLP execution time across Intel i5, Intel i7, and Apple M1" width="480"/>
+  <img src="docs/images/perf-threads.png" alt="Bar chart comparing active thread count for Whisper and OpenCV rendering across Intel i5, Intel i7, and Apple M1" width="480"/>
+</p>
 
 > **Counter-intuitive finding:** the oldest chip (i5-8265U) renders video *faster* than either newer one. It's likely a combination of OpenCV/threading-library maturity on mature x86 code paths, and scheduling overhead from the i7's hybrid P-core/E-core architecture — it spawns 216 rendering threads vs. 22–23 on the i5 and just 5–6 on the M1's unified-memory design.
 >
