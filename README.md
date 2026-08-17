@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤟 SignBridge
+# SignBridge
 
 ### From voice to hands — an open-source pipeline that turns spoken or written English into animated American Sign Language.
 
