@@ -1,0 +1,5 @@
+openai-whisper
+spacy
+opencv-python
+numpy
+scipy

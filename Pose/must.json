@@ -1,0 +1,7357 @@
+{
+    "pose_name": "must",
+    "frame_count": 45,
+    "keypoints_per_frame": 36,
+    "frames": {
+        "0": [
+            {
+                "joint": "nose",
+                "x": 0.0388,
+                "y": -0.2278
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2039,
+                "y": -0.0123
+            },
+            {
+                "joint": "right_shoulder",
+                "x": -0.0032,
+                "y": 0.0126
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.1872,
+                "y": 0.3878
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0709,
+                "y": 0.3176
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1039,
+                "y": 0.5872
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0329,
+                "y": 0.4673
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0943,
+                "y": 0.6812
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.014,
+                "y": 0.5579
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0757,
+                "y": 0.6605
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0058,
+                "y": 0.526
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0767,
+                "y": 0.6291
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0048,
+                "y": 0.4817
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.173,
+                "y": 0.7452
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0158,
+                "y": 0.7306
+            }
+        ],
+        "1": [
+            {
+                "joint": "nose",
+                "x": 0.0546,
+                "y": -0.2053
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2304,
+                "y": 0.0316
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0107,
+                "y": 0.0258
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2256,
+                "y": 0.4379
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0577,
+                "y": 0.3145
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1002,
+                "y": 0.5757
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0254,
+                "y": 0.4592
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.067,
+                "y": 0.6485
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0103,
+                "y": 0.5302
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0351,
+                "y": 0.5854
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0137,
+                "y": 0.4978
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0496,
+                "y": 0.5312
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0143,
+                "y": 0.4754
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1757,
+                "y": 0.6676
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0279,
+                "y": 0.654
+            }
+        ],
+        "2": [
+            {
+                "joint": "nose",
+                "x": 0.0542,
+                "y": -0.203
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2271,
+                "y": 0.0254
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0172,
+                "y": 0.0111
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2252,
+                "y": 0.4392
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0688,
+                "y": 0.2866
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0708,
+                "y": 0.5802
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0326,
+                "y": 0.4037
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0188,
+                "y": 0.675
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0201,
+                "y": 0.4846
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0024,
+                "y": 0.6246
+            },
+            {
+                "joint": "right_index",
+                "x": 0.005,
+                "y": 0.4526
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0223,
+                "y": 0.5073
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0067,
+                "y": 0.4269
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1698,
+                "y": 0.6453
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0398,
+                "y": 0.5916
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0572,
+                "y": 0.353
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0246,
+                "y": 0.3607
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0043,
+                "y": 0.3973
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0248,
+                "y": 0.428
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0388,
+                "y": 0.4534
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0114,
+                "y": 0.4655
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0297,
+                "y": 0.5259
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0339,
+                "y": 0.5468
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0352,
+                "y": 0.5586
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0035,
+                "y": 0.4869
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.013,
+                "y": 0.5451
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0169,
+                "y": 0.5622
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0171,
+                "y": 0.5713
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0204,
+                "y": 0.4989
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0061,
+                "y": 0.5558
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0019,
+                "y": 0.5685
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0012,
+                "y": 0.5734
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0372,
+                "y": 0.5037
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0265,
+                "y": 0.555
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0226,
+                "y": 0.5707
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0212,
+                "y": 0.5774
+            }
+        ],
+        "3": [
+            {
+                "joint": "nose",
+                "x": 0.0564,
+                "y": -0.1974
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2302,
+                "y": 0.0282
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0248,
+                "y": 0.004
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2244,
+                "y": 0.4532
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0616,
+                "y": 0.2597
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0936,
+                "y": 0.6403
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0446,
+                "y": 0.3138
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0543,
+                "y": 0.7341
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0341,
+                "y": 0.393
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0384,
+                "y": 0.6895
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0089,
+                "y": 0.373
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.05,
+                "y": 0.6525
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0061,
+                "y": 0.3509
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1818,
+                "y": 0.6747
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0502,
+                "y": 0.5954
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0669,
+                "y": 0.2511
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0344,
+                "y": 0.2761
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0067,
+                "y": 0.3217
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0104,
+                "y": 0.3623
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0186,
+                "y": 0.3961
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0063,
+                "y": 0.3403
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.009,
+                "y": 0.3909
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0182,
+                "y": 0.4256
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0241,
+                "y": 0.4501
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0217,
+                "y": 0.3512
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0136,
+                "y": 0.4099
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0141,
+                "y": 0.4308
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0157,
+                "y": 0.4387
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.04,
+                "y": 0.3593
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0309,
+                "y": 0.4155
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0293,
+                "y": 0.437
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0286,
+                "y": 0.4469
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0598,
+                "y": 0.3632
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0509,
+                "y": 0.4094
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0448,
+                "y": 0.4344
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0396,
+                "y": 0.4517
+            }
+        ],
+        "4": [
+            {
+                "joint": "nose",
+                "x": 0.055,
+                "y": -0.1953
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2282,
+                "y": 0.0262
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0305,
+                "y": -0.0009
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2293,
+                "y": 0.4439
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0676,
+                "y": 0.2523
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0963,
+                "y": 0.5987
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0547,
+                "y": 0.2524
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0592,
+                "y": 0.7131
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0532,
+                "y": 0.3209
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0435,
+                "y": 0.6658
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0296,
+                "y": 0.3
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0548,
+                "y": 0.635
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0222,
+                "y": 0.2777
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1805,
+                "y": 0.678
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0363,
+                "y": 0.6517
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0587,
+                "y": 0.1621
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0277,
+                "y": 0.1861
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0083,
+                "y": 0.234
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0004,
+                "y": 0.2778
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0043,
+                "y": 0.3134
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0293,
+                "y": 0.2878
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0273,
+                "y": 0.343
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0271,
+                "y": 0.3301
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0294,
+                "y": 0.3081
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0534,
+                "y": 0.29
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0518,
+                "y": 0.344
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0489,
+                "y": 0.333
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.05,
+                "y": 0.3123
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0764,
+                "y": 0.2849
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.075,
+                "y": 0.3313
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0711,
+                "y": 0.3201
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0707,
+                "y": 0.3031
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0971,
+                "y": 0.2757
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0966,
+                "y": 0.3133
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0917,
+                "y": 0.307
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0902,
+                "y": 0.2944
+            }
+        ],
+        "5": [
+            {
+                "joint": "nose",
+                "x": 0.0482,
+                "y": -0.1988
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.229,
+                "y": 0.0199
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0277,
+                "y": 0.0162
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2306,
+                "y": 0.4396
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0873,
+                "y": 0.2574
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0879,
+                "y": 0.6015
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0602,
+                "y": 0.2026
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0452,
+                "y": 0.6913
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0524,
+                "y": 0.174
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0308,
+                "y": 0.6383
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0398,
+                "y": 0.147
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0444,
+                "y": 0.6109
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0344,
+                "y": 0.1544
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1915,
+                "y": 0.6882
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0437,
+                "y": 0.6759
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0925,
+                "y": 0.2108
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0584,
+                "y": 0.17
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0284,
+                "y": 0.1511
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.013,
+                "y": 0.1703
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0152,
+                "y": 0.2063
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0462,
+                "y": 0.1131
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.017,
+                "y": 0.1688
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0187,
+                "y": 0.1969
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0286,
+                "y": 0.201
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0638,
+                "y": 0.1354
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0313,
+                "y": 0.2073
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0365,
+                "y": 0.2234
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0464,
+                "y": 0.2113
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0786,
+                "y": 0.1658
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0479,
+                "y": 0.2355
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0526,
+                "y": 0.2434
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0611,
+                "y": 0.2285
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0906,
+                "y": 0.1979
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0663,
+                "y": 0.253
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0685,
+                "y": 0.2583
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0758,
+                "y": 0.247
+            }
+        ],
+        "6": [
+            {
+                "joint": "nose",
+                "x": 0.047,
+                "y": -0.1993
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2267,
+                "y": 0.0157
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.024,
+                "y": 0.0137
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2314,
+                "y": 0.4328
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0946,
+                "y": 0.2496
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0945,
+                "y": 0.5977
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0643,
+                "y": 0.122
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0549,
+                "y": 0.6948
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0584,
+                "y": 0.0972
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0394,
+                "y": 0.6449
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0437,
+                "y": 0.0734
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0508,
+                "y": 0.6156
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.039,
+                "y": 0.0847
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1807,
+                "y": 0.6335
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0454,
+                "y": 0.6722
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0686,
+                "y": 0.1906
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0391,
+                "y": 0.1802
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0211,
+                "y": 0.1315
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.0213,
+                "y": 0.0826
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0236,
+                "y": 0.046
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0393,
+                "y": 0.0591
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0396,
+                "y": 0.0097
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0371,
+                "y": -0.0081
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0347,
+                "y": -0.0081
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0586,
+                "y": 0.0569
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0603,
+                "y": 0.0178
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0544,
+                "y": 0.0358
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0509,
+                "y": 0.0646
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0753,
+                "y": 0.0674
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0749,
+                "y": 0.0353
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0678,
+                "y": 0.0534
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0646,
+                "y": 0.0791
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0911,
+                "y": 0.088
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0886,
+                "y": 0.0659
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0818,
+                "y": 0.0798
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0782,
+                "y": 0.1009
+            }
+        ],
+        "7": [
+            {
+                "joint": "nose",
+                "x": 0.0531,
+                "y": -0.1929
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2254,
+                "y": 0.0186
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.024,
+                "y": 0.0133
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2304,
+                "y": 0.4316
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0971,
+                "y": 0.2667
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.0997,
+                "y": 0.5926
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0681,
+                "y": 0.0678
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0731,
+                "y": 0.7104
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0614,
+                "y": 0.0085
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0541,
+                "y": 0.6667
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0484,
+                "y": -0.01
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0641,
+                "y": 0.6375
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0446,
+                "y": 0.0135
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1975,
+                "y": 0.6653
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0512,
+                "y": 0.6692
+            }
+        ],
+        "8": [
+            {
+                "joint": "nose",
+                "x": 0.0515,
+                "y": -0.1914
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2266,
+                "y": 0.0156
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0222,
+                "y": 0.0107
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2356,
+                "y": 0.43
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.1021,
+                "y": 0.2513
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1077,
+                "y": 0.6224
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0659,
+                "y": -0.0062
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0711,
+                "y": 0.7197
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0509,
+                "y": -0.0858
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0484,
+                "y": 0.6761
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0366,
+                "y": -0.0998
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0594,
+                "y": 0.648
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0327,
+                "y": -0.0711
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2025,
+                "y": 0.6718
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0562,
+                "y": 0.6761
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0664,
+                "y": 0.0115
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0463,
+                "y": 0.0006
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0288,
+                "y": -0.0197
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.0201,
+                "y": -0.0322
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0181,
+                "y": -0.0424
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0422,
+                "y": -0.1065
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.035,
+                "y": -0.1596
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0288,
+                "y": -0.1337
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0271,
+                "y": -0.1018
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0624,
+                "y": -0.1061
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0471,
+                "y": -0.0741
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0413,
+                "y": -0.0303
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0434,
+                "y": -0.0147
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.081,
+                "y": -0.0874
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0617,
+                "y": -0.0443
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0543,
+                "y": -0.0134
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0556,
+                "y": -0.0049
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0962,
+                "y": -0.0603
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0782,
+                "y": -0.024
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0694,
+                "y": -0.0015
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0687,
+                "y": 0.0041
+            }
+        ],
+        "9": [
+            {
+                "joint": "nose",
+                "x": 0.0478,
+                "y": -0.1902
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2249,
+                "y": 0.0146
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0206,
+                "y": 0.009
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.237,
+                "y": 0.4265
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.1088,
+                "y": 0.2323
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1105,
+                "y": 0.6193
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0653,
+                "y": -0.0464
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0735,
+                "y": 0.7137
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0486,
+                "y": -0.1301
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0526,
+                "y": 0.6714
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0327,
+                "y": -0.136
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0633,
+                "y": 0.6437
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0286,
+                "y": -0.1069
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2074,
+                "y": 0.6757
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0623,
+                "y": 0.6807
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0666,
+                "y": -0.0177
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0421,
+                "y": -0.0388
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0189,
+                "y": -0.0635
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.0105,
+                "y": -0.081
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0208,
+                "y": -0.0866
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0359,
+                "y": -0.154
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0276,
+                "y": -0.1882
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0265,
+                "y": -0.2062
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0268,
+                "y": -0.2171
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.058,
+                "y": -0.1614
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.04,
+                "y": -0.116
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0393,
+                "y": -0.0849
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0443,
+                "y": -0.0792
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.076,
+                "y": -0.1434
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0547,
+                "y": -0.091
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0539,
+                "y": -0.0701
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0588,
+                "y": -0.0703
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0897,
+                "y": -0.1138
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0702,
+                "y": -0.0703
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0664,
+                "y": -0.053
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0692,
+                "y": -0.0537
+            }
+        ],
+        "10": [
+            {
+                "joint": "nose",
+                "x": 0.0478,
+                "y": -0.1951
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2253,
+                "y": 0.0104
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0205,
+                "y": 0.0065
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2384,
+                "y": 0.422
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.1105,
+                "y": 0.2235
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1165,
+                "y": 0.6138
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0661,
+                "y": -0.0734
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0819,
+                "y": 0.7088
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0481,
+                "y": -0.1561
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0587,
+                "y": 0.6683
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0331,
+                "y": -0.1639
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0687,
+                "y": 0.6402
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0295,
+                "y": -0.1365
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2116,
+                "y": 0.668
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0649,
+                "y": 0.676
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0635,
+                "y": -0.0522
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0378,
+                "y": -0.0741
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0153,
+                "y": -0.1006
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.0068,
+                "y": -0.1229
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0169,
+                "y": -0.1311
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0304,
+                "y": -0.1876
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0249,
+                "y": -0.2219
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0225,
+                "y": -0.2477
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0199,
+                "y": -0.2716
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0511,
+                "y": -0.1971
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0365,
+                "y": -0.1658
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0353,
+                "y": -0.1342
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0388,
+                "y": -0.1207
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0692,
+                "y": -0.1831
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0517,
+                "y": -0.1463
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0499,
+                "y": -0.1235
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0525,
+                "y": -0.1165
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.084,
+                "y": -0.158
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0663,
+                "y": -0.1267
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0616,
+                "y": -0.1085
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0619,
+                "y": -0.1045
+            }
+        ],
+        "11": [
+            {
+                "joint": "nose",
+                "x": 0.0441,
+                "y": -0.1977
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2267,
+                "y": 0.0091
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0222,
+                "y": 0.0028
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2392,
+                "y": 0.4224
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.1037,
+                "y": 0.2184
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1174,
+                "y": 0.6102
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0642,
+                "y": -0.0938
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0829,
+                "y": 0.7048
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0489,
+                "y": -0.1849
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0591,
+                "y": 0.6636
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0351,
+                "y": -0.193
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0694,
+                "y": 0.6352
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0311,
+                "y": -0.1657
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2106,
+                "y": 0.6625
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0638,
+                "y": 0.6736
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0545,
+                "y": -0.0886
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0303,
+                "y": -0.1064
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0091,
+                "y": -0.141
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": -0.0023,
+                "y": -0.1684
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0121,
+                "y": -0.182
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0267,
+                "y": -0.225
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0237,
+                "y": -0.2666
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0212,
+                "y": -0.2897
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0185,
+                "y": -0.3049
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0467,
+                "y": -0.2314
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0322,
+                "y": -0.2089
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0306,
+                "y": -0.1752
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0336,
+                "y": -0.1606
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0641,
+                "y": -0.2179
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0481,
+                "y": -0.1862
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0455,
+                "y": -0.1606
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0472,
+                "y": -0.1524
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0789,
+                "y": -0.1959
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0626,
+                "y": -0.1692
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0575,
+                "y": -0.1454
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0577,
+                "y": -0.1374
+            }
+        ],
+        "12": [
+            {
+                "joint": "nose",
+                "x": 0.043,
+                "y": -0.1999
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.229,
+                "y": 0.0114
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0248,
+                "y": 0.0006
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2388,
+                "y": 0.4241
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0983,
+                "y": 0.2143
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1186,
+                "y": 0.6096
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0617,
+                "y": -0.1035
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0917,
+                "y": 0.7263
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0514,
+                "y": -0.1965
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0613,
+                "y": 0.6624
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0381,
+                "y": -0.2077
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0712,
+                "y": 0.6338
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0332,
+                "y": -0.18
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2084,
+                "y": 0.6622
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0621,
+                "y": 0.6734
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0466,
+                "y": -0.1191
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0248,
+                "y": -0.1347
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0053,
+                "y": -0.1763
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0,
+                "y": -0.2087
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0101,
+                "y": -0.2276
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0245,
+                "y": -0.2553
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0268,
+                "y": -0.3087
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0229,
+                "y": -0.3295
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0183,
+                "y": -0.3328
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0439,
+                "y": -0.256
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0305,
+                "y": -0.2538
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0275,
+                "y": -0.2127
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0301,
+                "y": -0.1963
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0608,
+                "y": -0.2422
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0462,
+                "y": -0.2278
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0421,
+                "y": -0.1941
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0442,
+                "y": -0.1843
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0766,
+                "y": -0.2214
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0617,
+                "y": -0.2071
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0547,
+                "y": -0.1807
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0552,
+                "y": -0.1732
+            }
+        ],
+        "13": [
+            {
+                "joint": "nose",
+                "x": 0.0436,
+                "y": -0.2012
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2293,
+                "y": 0.0129
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0272,
+                "y": -0.0005
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2399,
+                "y": 0.424
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0898,
+                "y": 0.2027
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1206,
+                "y": 0.61
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0537,
+                "y": -0.1186
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0934,
+                "y": 0.7312
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0493,
+                "y": -0.2151
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0628,
+                "y": 0.6619
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0375,
+                "y": -0.2255
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0732,
+                "y": 0.6339
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0316,
+                "y": -0.1957
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2071,
+                "y": 0.6652
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0621,
+                "y": 0.6759
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.036,
+                "y": -0.1302
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0157,
+                "y": -0.1536
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": -0.0018,
+                "y": -0.2014
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0016,
+                "y": -0.239
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0106,
+                "y": -0.2622
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0252,
+                "y": -0.2743
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0308,
+                "y": -0.3295
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0248,
+                "y": -0.3513
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0184,
+                "y": -0.3455
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0435,
+                "y": -0.2685
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0287,
+                "y": -0.2822
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0239,
+                "y": -0.2362
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0283,
+                "y": -0.2209
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0586,
+                "y": -0.2527
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0418,
+                "y": -0.2545
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0364,
+                "y": -0.2149
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0414,
+                "y": -0.2045
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0735,
+                "y": -0.23
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0578,
+                "y": -0.2318
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0495,
+                "y": -0.2026
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.052,
+                "y": -0.1929
+            }
+        ],
+        "14": [
+            {
+                "joint": "nose",
+                "x": 0.0421,
+                "y": -0.2023
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2286,
+                "y": 0.0134
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0263,
+                "y": -0.0022
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2394,
+                "y": 0.4237
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0831,
+                "y": 0.193
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1177,
+                "y": 0.6056
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.05,
+                "y": -0.12
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0893,
+                "y": 0.7136
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0468,
+                "y": -0.217
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0648,
+                "y": 0.6594
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0358,
+                "y": -0.2298
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0755,
+                "y": 0.6309
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0298,
+                "y": -0.1998
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2064,
+                "y": 0.6658
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0612,
+                "y": 0.676
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0336,
+                "y": -0.1204
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.012,
+                "y": -0.1451
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0024,
+                "y": -0.2004
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0022,
+                "y": -0.2463
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": -0.0158,
+                "y": -0.2681
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.022,
+                "y": -0.2678
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0281,
+                "y": -0.3297
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0209,
+                "y": -0.3463
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0125,
+                "y": -0.3311
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0396,
+                "y": -0.261
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0267,
+                "y": -0.2799
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0205,
+                "y": -0.2347
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0248,
+                "y": -0.2195
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0541,
+                "y": -0.2458
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0398,
+                "y": -0.254
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.033,
+                "y": -0.2134
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0375,
+                "y": -0.1998
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0694,
+                "y": -0.224
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0539,
+                "y": -0.2302
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0448,
+                "y": -0.2013
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0471,
+                "y": -0.1894
+            }
+        ],
+        "15": [
+            {
+                "joint": "nose",
+                "x": 0.0464,
+                "y": -0.2005
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2272,
+                "y": 0.0123
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0274,
+                "y": -0.0031
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2377,
+                "y": 0.423
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0764,
+                "y": 0.1856
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1211,
+                "y": 0.5987
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0462,
+                "y": -0.0982
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.1021,
+                "y": 0.7059
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0401,
+                "y": -0.1885
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0814,
+                "y": 0.6587
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0298,
+                "y": -0.2006
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0834,
+                "y": 0.6278
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0243,
+                "y": -0.1723
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2066,
+                "y": 0.6672
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0637,
+                "y": 0.6741
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0357,
+                "y": -0.0978
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0065,
+                "y": -0.1171
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0106,
+                "y": -0.1595
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0171,
+                "y": -0.1901
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0164,
+                "y": -0.2077
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0128,
+                "y": -0.248
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0155,
+                "y": -0.3176
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0142,
+                "y": -0.3251
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0122,
+                "y": -0.3065
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0358,
+                "y": -0.2511
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0186,
+                "y": -0.2086
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0069,
+                "y": -0.1525
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0004,
+                "y": -0.1139
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0538,
+                "y": -0.2287
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0365,
+                "y": -0.1778
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0257,
+                "y": -0.1385
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.02,
+                "y": -0.1083
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.069,
+                "y": -0.1992
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0527,
+                "y": -0.1636
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0428,
+                "y": -0.1353
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0375,
+                "y": -0.114
+            }
+        ],
+        "16": [
+            {
+                "joint": "nose",
+                "x": 0.0481,
+                "y": -0.1973
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2265,
+                "y": 0.0125
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0337,
+                "y": -0.0103
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2393,
+                "y": 0.42
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0534,
+                "y": 0.0499
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1203,
+                "y": 0.5954
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.042,
+                "y": -0.0836
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0983,
+                "y": 0.7087
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0419,
+                "y": -0.0912
+            },
+            {
+                "joint": "left_index",
+                "x": 0.08,
+                "y": 0.6627
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0288,
+                "y": -0.0989
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0858,
+                "y": 0.6321
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.02,
+                "y": -0.1001
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2009,
+                "y": 0.6693
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0627,
+                "y": 0.6694
+            }
+        ],
+        "17": [
+            {
+                "joint": "nose",
+                "x": 0.0469,
+                "y": -0.1966
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2289,
+                "y": 0.014
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0359,
+                "y": -0.0113
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2395,
+                "y": 0.4176
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0526,
+                "y": 0.0487
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1197,
+                "y": 0.5944
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0392,
+                "y": -0.022
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.092,
+                "y": 0.7052
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0388,
+                "y": 0.0126
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0732,
+                "y": 0.6597
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0201,
+                "y": 0.0077
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0804,
+                "y": 0.6288
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0121,
+                "y": 0.0069
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1989,
+                "y": 0.6756
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0651,
+                "y": 0.6683
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0436,
+                "y": -0.0394
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0093,
+                "y": -0.034
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0137,
+                "y": 0.0167
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0176,
+                "y": 0.0712
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0135,
+                "y": 0.1125
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0117,
+                "y": 0.0285
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0058,
+                "y": 0.0939
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0023,
+                "y": 0.1336
+            },
+            {
+                "joint": "right_index_tip",
+                "x": -0.0022,
+                "y": 0.1661
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0358,
+                "y": 0.0442
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0148,
+                "y": 0.1041
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0052,
+                "y": 0.1013
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0065,
+                "y": 0.0892
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0526,
+                "y": 0.0545
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0304,
+                "y": 0.1102
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0206,
+                "y": 0.0978
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0227,
+                "y": 0.0777
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0618,
+                "y": 0.0627
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0397,
+                "y": 0.1061
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0309,
+                "y": 0.0954
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0348,
+                "y": 0.076
+            }
+        ],
+        "18": [
+            {
+                "joint": "nose",
+                "x": 0.0468,
+                "y": -0.197
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2285,
+                "y": 0.0138
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0358,
+                "y": -0.0114
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2414,
+                "y": 0.4168
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0607,
+                "y": 0.0762
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1187,
+                "y": 0.5939
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0286,
+                "y": 0.0178
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.089,
+                "y": 0.7135
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0247,
+                "y": 0.0499
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0692,
+                "y": 0.656
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0021,
+                "y": 0.0436
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0767,
+                "y": 0.6213
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0088,
+                "y": 0.0414
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1977,
+                "y": 0.6742
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.063,
+                "y": 0.6656
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.034,
+                "y": -0.038
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": 0.0027,
+                "y": -0.0327
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0288,
+                "y": 0.0239
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0344,
+                "y": 0.085
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0297,
+                "y": 0.1221
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0128,
+                "y": 0.0354
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0196,
+                "y": 0.1052
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0256,
+                "y": 0.1471
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0293,
+                "y": 0.1818
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0129,
+                "y": 0.053
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.004,
+                "y": 0.1235
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.009,
+                "y": 0.1042
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.005,
+                "y": 0.079
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0326,
+                "y": 0.064
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0136,
+                "y": 0.1226
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0078,
+                "y": 0.1036
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0111,
+                "y": 0.0799
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0467,
+                "y": 0.0721
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0269,
+                "y": 0.1134
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0217,
+                "y": 0.098
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0264,
+                "y": 0.0783
+            }
+        ],
+        "19": [
+            {
+                "joint": "nose",
+                "x": 0.0469,
+                "y": -0.197
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2292,
+                "y": 0.0159
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0335,
+                "y": -0.0115
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2419,
+                "y": 0.4173
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0646,
+                "y": 0.0883
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1168,
+                "y": 0.6056
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0268,
+                "y": 0.014
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0868,
+                "y": 0.7222
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0224,
+                "y": 0.0438
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0667,
+                "y": 0.6715
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0078,
+                "y": 0.0359
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0745,
+                "y": 0.6376
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0146,
+                "y": 0.0335
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1978,
+                "y": 0.6776
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.061,
+                "y": 0.6663
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0226,
+                "y": -0.0466
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": 0.0124,
+                "y": -0.0353
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0346,
+                "y": 0.0208
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0402,
+                "y": 0.0778
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0384,
+                "y": 0.1163
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0206,
+                "y": 0.028
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0251,
+                "y": 0.0941
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0296,
+                "y": 0.135
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0318,
+                "y": 0.1698
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0058,
+                "y": 0.0454
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0102,
+                "y": 0.1152
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0156,
+                "y": 0.0958
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0128,
+                "y": 0.0694
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0263,
+                "y": 0.0546
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0074,
+                "y": 0.1153
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.002,
+                "y": 0.0959
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0058,
+                "y": 0.072
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0417,
+                "y": 0.0585
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0221,
+                "y": 0.1052
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0167,
+                "y": 0.0912
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0225,
+                "y": 0.0698
+            }
+        ],
+        "20": [
+            {
+                "joint": "nose",
+                "x": 0.0472,
+                "y": -0.1968
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2291,
+                "y": 0.0181
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0333,
+                "y": -0.0115
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2412,
+                "y": 0.4175
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0629,
+                "y": 0.0855
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.116,
+                "y": 0.6111
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0259,
+                "y": 0.0114
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0852,
+                "y": 0.7251
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0234,
+                "y": 0.0404
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0655,
+                "y": 0.6781
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0069,
+                "y": 0.0328
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0738,
+                "y": 0.6451
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0145,
+                "y": 0.0305
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1986,
+                "y": 0.687
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0611,
+                "y": 0.6732
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0325,
+                "y": -0.0588
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": 0.0052,
+                "y": -0.0489
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0308,
+                "y": 0.009
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0371,
+                "y": 0.0704
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0312,
+                "y": 0.1107
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0127,
+                "y": 0.0182
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0186,
+                "y": 0.0868
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.025,
+                "y": 0.128
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0289,
+                "y": 0.1614
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0135,
+                "y": 0.037
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0067,
+                "y": 0.1104
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0132,
+                "y": 0.0934
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0101,
+                "y": 0.0689
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0336,
+                "y": 0.0497
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0108,
+                "y": 0.1112
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0038,
+                "y": 0.0935
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0075,
+                "y": 0.0699
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0472,
+                "y": 0.0583
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0243,
+                "y": 0.1039
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0177,
+                "y": 0.0901
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0227,
+                "y": 0.0695
+            }
+        ],
+        "21": [
+            {
+                "joint": "nose",
+                "x": 0.0485,
+                "y": -0.1965
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2295,
+                "y": 0.0207
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0338,
+                "y": -0.0123
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2406,
+                "y": 0.417
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0594,
+                "y": 0.0783
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1194,
+                "y": 0.6105
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0281,
+                "y": 0.0113
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0866,
+                "y": 0.7219
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0263,
+                "y": 0.038
+            },
+            {
+                "joint": "left_index",
+                "x": 0.068,
+                "y": 0.6757
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0021,
+                "y": 0.03
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0762,
+                "y": 0.6431
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0101,
+                "y": 0.0292
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1986,
+                "y": 0.6889
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0628,
+                "y": 0.6757
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0366,
+                "y": -0.0645
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": 0.0011,
+                "y": -0.0508
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0252,
+                "y": 0.0076
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0309,
+                "y": 0.0689
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0261,
+                "y": 0.1116
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0049,
+                "y": 0.0166
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0112,
+                "y": 0.0868
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0174,
+                "y": 0.1282
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0207,
+                "y": 0.1619
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0213,
+                "y": 0.0362
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0017,
+                "y": 0.1109
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0091,
+                "y": 0.0916
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0056,
+                "y": 0.0661
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0407,
+                "y": 0.0495
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0153,
+                "y": 0.1112
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0078,
+                "y": 0.091
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.012,
+                "y": 0.0682
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0532,
+                "y": 0.0583
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0287,
+                "y": 0.1036
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0219,
+                "y": 0.0876
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0273,
+                "y": 0.0676
+            }
+        ],
+        "22": [
+            {
+                "joint": "nose",
+                "x": 0.0491,
+                "y": -0.1963
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2305,
+                "y": 0.0206
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0333,
+                "y": -0.0157
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2422,
+                "y": 0.4169
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0607,
+                "y": 0.0711
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1257,
+                "y": 0.6052
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0303,
+                "y": 0.0109
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0911,
+                "y": 0.7203
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.028,
+                "y": 0.0411
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0739,
+                "y": 0.6745
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0006,
+                "y": 0.033
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0819,
+                "y": 0.6417
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0075,
+                "y": 0.0307
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1993,
+                "y": 0.6876
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0637,
+                "y": 0.6742
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0409,
+                "y": -0.0661
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0024,
+                "y": -0.0471
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.022,
+                "y": 0.013
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.026,
+                "y": 0.0762
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0169,
+                "y": 0.1201
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0006,
+                "y": 0.0167
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0035,
+                "y": 0.0833
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0097,
+                "y": 0.1241
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0136,
+                "y": 0.1575
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.027,
+                "y": 0.0359
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0044,
+                "y": 0.1134
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0049,
+                "y": 0.095
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0024,
+                "y": 0.0688
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0461,
+                "y": 0.0497
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0211,
+                "y": 0.1148
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0121,
+                "y": 0.0952
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0154,
+                "y": 0.0713
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0579,
+                "y": 0.0594
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.033,
+                "y": 0.1083
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0252,
+                "y": 0.0932
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0299,
+                "y": 0.0712
+            }
+        ],
+        "23": [
+            {
+                "joint": "nose",
+                "x": 0.0492,
+                "y": -0.1957
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2316,
+                "y": 0.0207
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0338,
+                "y": -0.0171
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2434,
+                "y": 0.4165
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0613,
+                "y": 0.0681
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1258,
+                "y": 0.6039
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0308,
+                "y": 0.0137
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0908,
+                "y": 0.7188
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0315,
+                "y": 0.0422
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0741,
+                "y": 0.6728
+            },
+            {
+                "joint": "right_index",
+                "x": -0.001,
+                "y": 0.0322
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0823,
+                "y": 0.6399
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0062,
+                "y": 0.0309
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2036,
+                "y": 0.6862
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0682,
+                "y": 0.6731
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0425,
+                "y": -0.0651
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0055,
+                "y": -0.0449
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.017,
+                "y": 0.0153
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0208,
+                "y": 0.078
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.013,
+                "y": 0.1224
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0031,
+                "y": 0.0205
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0003,
+                "y": 0.0913
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0054,
+                "y": 0.1326
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0079,
+                "y": 0.1654
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0294,
+                "y": 0.0385
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0082,
+                "y": 0.1191
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0015,
+                "y": 0.1007
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0001,
+                "y": 0.0741
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0487,
+                "y": 0.0511
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0244,
+                "y": 0.1174
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0156,
+                "y": 0.0975
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0183,
+                "y": 0.0736
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0608,
+                "y": 0.0593
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.037,
+                "y": 0.1101
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0297,
+                "y": 0.0949
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0338,
+                "y": 0.0728
+            }
+        ],
+        "24": [
+            {
+                "joint": "nose",
+                "x": 0.049,
+                "y": -0.1957
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2326,
+                "y": 0.0205
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0335,
+                "y": -0.0178
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2444,
+                "y": 0.4164
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.062,
+                "y": 0.0665
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1276,
+                "y": 0.6001
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0335,
+                "y": 0.0121
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0917,
+                "y": 0.7181
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0375,
+                "y": 0.0419
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0751,
+                "y": 0.6724
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0049,
+                "y": 0.0325
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0829,
+                "y": 0.6393
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0041,
+                "y": 0.0306
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2036,
+                "y": 0.6864
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0686,
+                "y": 0.6724
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0453,
+                "y": -0.0619
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0079,
+                "y": -0.0406
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0155,
+                "y": 0.0199
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0196,
+                "y": 0.0824
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0125,
+                "y": 0.1257
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0046,
+                "y": 0.0263
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0019,
+                "y": 0.0951
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0035,
+                "y": 0.1374
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0068,
+                "y": 0.1719
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.031,
+                "y": 0.0446
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0106,
+                "y": 0.1258
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0018,
+                "y": 0.1071
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0033,
+                "y": 0.0797
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0506,
+                "y": 0.0575
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0274,
+                "y": 0.1239
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0193,
+                "y": 0.1039
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0218,
+                "y": 0.0797
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0634,
+                "y": 0.0653
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0407,
+                "y": 0.1161
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0339,
+                "y": 0.1013
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0378,
+                "y": 0.0788
+            }
+        ],
+        "25": [
+            {
+                "joint": "nose",
+                "x": 0.0491,
+                "y": -0.1953
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.233,
+                "y": 0.0205
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0332,
+                "y": -0.0183
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2447,
+                "y": 0.4159
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0624,
+                "y": 0.0699
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1278,
+                "y": 0.5949
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0357,
+                "y": 0.0184
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0915,
+                "y": 0.7177
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.041,
+                "y": 0.0478
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0749,
+                "y": 0.6716
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0115,
+                "y": 0.0402
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0827,
+                "y": 0.6383
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0016,
+                "y": 0.0391
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2036,
+                "y": 0.6854
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0683,
+                "y": 0.672
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0413,
+                "y": -0.0256
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0086,
+                "y": -0.0207
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0135,
+                "y": 0.0318
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.016,
+                "y": 0.0882
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0108,
+                "y": 0.1298
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0042,
+                "y": 0.0322
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0024,
+                "y": 0.098
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0016,
+                "y": 0.1458
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0027,
+                "y": 0.1829
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0317,
+                "y": 0.0484
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0142,
+                "y": 0.1219
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0065,
+                "y": 0.1096
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0082,
+                "y": 0.0855
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0512,
+                "y": 0.0606
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0305,
+                "y": 0.1291
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.021,
+                "y": 0.1139
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0227,
+                "y": 0.088
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0634,
+                "y": 0.0702
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0424,
+                "y": 0.1225
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0336,
+                "y": 0.1103
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0375,
+                "y": 0.0876
+            }
+        ],
+        "26": [
+            {
+                "joint": "nose",
+                "x": 0.0489,
+                "y": -0.1951
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2329,
+                "y": 0.0204
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0329,
+                "y": -0.0183
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2446,
+                "y": 0.4151
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0628,
+                "y": 0.071
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1276,
+                "y": 0.5927
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.039,
+                "y": 0.0249
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0913,
+                "y": 0.7171
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.043,
+                "y": 0.0571
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0743,
+                "y": 0.6709
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0144,
+                "y": 0.0488
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0824,
+                "y": 0.5984
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0043,
+                "y": 0.0463
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2035,
+                "y": 0.6836
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0678,
+                "y": 0.6707
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0492,
+                "y": -0.027
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0125,
+                "y": -0.018
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0108,
+                "y": 0.0406
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0144,
+                "y": 0.101
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0091,
+                "y": 0.1416
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0079,
+                "y": 0.0444
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0032,
+                "y": 0.1153
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0014,
+                "y": 0.1607
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0033,
+                "y": 0.199
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0346,
+                "y": 0.0654
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0137,
+                "y": 0.1409
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0054,
+                "y": 0.1217
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0078,
+                "y": 0.098
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0537,
+                "y": 0.0787
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0301,
+                "y": 0.1415
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0217,
+                "y": 0.1226
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0249,
+                "y": 0.0999
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0662,
+                "y": 0.0868
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0428,
+                "y": 0.1342
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0349,
+                "y": 0.1214
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0392,
+                "y": 0.101
+            }
+        ],
+        "27": [
+            {
+                "joint": "nose",
+                "x": 0.0488,
+                "y": -0.1952
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2329,
+                "y": 0.0204
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0327,
+                "y": -0.0169
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2444,
+                "y": 0.415
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0631,
+                "y": 0.0714
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.127,
+                "y": 0.5922
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0417,
+                "y": 0.0263
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0898,
+                "y": 0.7174
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0433,
+                "y": 0.0676
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0734,
+                "y": 0.6716
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0149,
+                "y": 0.063
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.082,
+                "y": 0.5825
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0052,
+                "y": 0.0583
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2045,
+                "y": 0.6831
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0678,
+                "y": 0.6703
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0517,
+                "y": -0.0163
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0147,
+                "y": -0.0022
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0075,
+                "y": 0.0559
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0125,
+                "y": 0.1154
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0078,
+                "y": 0.1582
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0096,
+                "y": 0.0669
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.006,
+                "y": 0.136
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0004,
+                "y": 0.1789
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0039,
+                "y": 0.214
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0357,
+                "y": 0.0871
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0154,
+                "y": 0.1623
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0076,
+                "y": 0.1444
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0103,
+                "y": 0.1184
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0558,
+                "y": 0.0998
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0323,
+                "y": 0.1604
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0244,
+                "y": 0.1422
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0278,
+                "y": 0.1202
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0693,
+                "y": 0.1078
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0456,
+                "y": 0.1511
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0386,
+                "y": 0.1372
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0433,
+                "y": 0.1179
+            }
+        ],
+        "28": [
+            {
+                "joint": "nose",
+                "x": 0.0486,
+                "y": -0.1955
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2327,
+                "y": 0.0203
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0328,
+                "y": -0.0099
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2441,
+                "y": 0.4148
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0633,
+                "y": 0.0734
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1219,
+                "y": 0.6007
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0446,
+                "y": 0.0297
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0876,
+                "y": 0.7185
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0433,
+                "y": 0.0853
+            },
+            {
+                "joint": "left_index",
+                "x": 0.071,
+                "y": 0.6747
+            },
+            {
+                "joint": "right_index",
+                "x": -0.015,
+                "y": 0.0815
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0794,
+                "y": 0.6186
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0058,
+                "y": 0.0724
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2046,
+                "y": 0.6841
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0687,
+                "y": 0.6705
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0543,
+                "y": 0.0134
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0177,
+                "y": 0.0336
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0052,
+                "y": 0.0929
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0106,
+                "y": 0.1539
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0033,
+                "y": 0.1977
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0099,
+                "y": 0.0956
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0071,
+                "y": 0.1686
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0007,
+                "y": 0.2082
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0028,
+                "y": 0.239
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0359,
+                "y": 0.1137
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0203,
+                "y": 0.1877
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0144,
+                "y": 0.1752
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0178,
+                "y": 0.1516
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0575,
+                "y": 0.127
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0381,
+                "y": 0.1886
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0322,
+                "y": 0.1739
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0364,
+                "y": 0.1527
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0731,
+                "y": 0.1389
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0526,
+                "y": 0.1866
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0475,
+                "y": 0.1741
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0533,
+                "y": 0.154
+            }
+        ],
+        "29": [
+            {
+                "joint": "nose",
+                "x": 0.0485,
+                "y": -0.1957
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2327,
+                "y": 0.0204
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0348,
+                "y": -0.006
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2438,
+                "y": 0.4151
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0635,
+                "y": 0.0818
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.116,
+                "y": 0.6055
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0456,
+                "y": 0.0482
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0836,
+                "y": 0.7189
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0433,
+                "y": 0.1105
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0665,
+                "y": 0.6761
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0151,
+                "y": 0.1084
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0748,
+                "y": 0.6325
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0067,
+                "y": 0.0964
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2048,
+                "y": 0.688
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.071,
+                "y": 0.6713
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0506,
+                "y": 0.0429
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0183,
+                "y": 0.0674
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0022,
+                "y": 0.1283
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0087,
+                "y": 0.1827
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0051,
+                "y": 0.2244
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0118,
+                "y": 0.1349
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0075,
+                "y": 0.2024
+            },
+            {
+                "joint": "right_index_dip",
+                "x": -0.0006,
+                "y": 0.2454
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0036,
+                "y": 0.2791
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.038,
+                "y": 0.1544
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0222,
+                "y": 0.2288
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0169,
+                "y": 0.219
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0203,
+                "y": 0.1966
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0604,
+                "y": 0.169
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0406,
+                "y": 0.2308
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0343,
+                "y": 0.2184
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0379,
+                "y": 0.1979
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0774,
+                "y": 0.1802
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0567,
+                "y": 0.2299
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0511,
+                "y": 0.2185
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0565,
+                "y": 0.1972
+            }
+        ],
+        "30": [
+            {
+                "joint": "nose",
+                "x": 0.0492,
+                "y": -0.1957
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2327,
+                "y": 0.0204
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0374,
+                "y": -0.0049
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2429,
+                "y": 0.4166
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0595,
+                "y": 0.1007
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1136,
+                "y": 0.6042
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0452,
+                "y": 0.0863
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0813,
+                "y": 0.719
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0423,
+                "y": 0.1539
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0641,
+                "y": 0.6771
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0144,
+                "y": 0.1519
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0721,
+                "y": 0.6377
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.0065,
+                "y": 0.1358
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2053,
+                "y": 0.6876
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0731,
+                "y": 0.6697
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0517,
+                "y": 0.0747
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0196,
+                "y": 0.1124
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0022,
+                "y": 0.1737
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0119,
+                "y": 0.2296
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0075,
+                "y": 0.2718
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0118,
+                "y": 0.1747
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0039,
+                "y": 0.2464
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.004,
+                "y": 0.2894
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0097,
+                "y": 0.3235
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.037,
+                "y": 0.1938
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0224,
+                "y": 0.2754
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0198,
+                "y": 0.2699
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0229,
+                "y": 0.2501
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0594,
+                "y": 0.2075
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0412,
+                "y": 0.2801
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0367,
+                "y": 0.2707
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0388,
+                "y": 0.2498
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0769,
+                "y": 0.2166
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0567,
+                "y": 0.2719
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.052,
+                "y": 0.2656
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0556,
+                "y": 0.2464
+            }
+        ],
+        "31": [
+            {
+                "joint": "nose",
+                "x": 0.0522,
+                "y": -0.196
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2326,
+                "y": 0.0208
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0368,
+                "y": -0.0051
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2426,
+                "y": 0.418
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.058,
+                "y": 0.1328
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1156,
+                "y": 0.6008
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0461,
+                "y": 0.1503
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0837,
+                "y": 0.722
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0422,
+                "y": 0.2303
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0661,
+                "y": 0.6812
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0136,
+                "y": 0.2205
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.073,
+                "y": 0.6436
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.006,
+                "y": 0.2039
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2089,
+                "y": 0.679
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0745,
+                "y": 0.6618
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0582,
+                "y": 0.1209
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0197,
+                "y": 0.1653
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0062,
+                "y": 0.2289
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.017,
+                "y": 0.2922
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.018,
+                "y": 0.3418
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0156,
+                "y": 0.2264
+            },
+            {
+                "joint": "right_index_pip",
+                "x": -0.0021,
+                "y": 0.2918
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0108,
+                "y": 0.3272
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0202,
+                "y": 0.3545
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0364,
+                "y": 0.248
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": -0.0138,
+                "y": 0.3226
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": -0.0073,
+                "y": 0.3169
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0106,
+                "y": 0.2982
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.053,
+                "y": 0.2644
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0281,
+                "y": 0.335
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0228,
+                "y": 0.3257
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0266,
+                "y": 0.3058
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0634,
+                "y": 0.2771
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0408,
+                "y": 0.3315
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0364,
+                "y": 0.3256
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0419,
+                "y": 0.3057
+            }
+        ],
+        "32": [
+            {
+                "joint": "nose",
+                "x": 0.0545,
+                "y": -0.1964
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.234,
+                "y": 0.0231
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0327,
+                "y": -0.0047
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2425,
+                "y": 0.424
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.059,
+                "y": 0.1913
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1193,
+                "y": 0.5892
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0461,
+                "y": 0.2183
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0836,
+                "y": 0.7215
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0393,
+                "y": 0.2992
+            },
+            {
+                "joint": "left_index",
+                "x": 0.066,
+                "y": 0.6796
+            },
+            {
+                "joint": "right_index",
+                "x": -0.0091,
+                "y": 0.2856
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0729,
+                "y": 0.6426
+            },
+            {
+                "joint": "right_thumb",
+                "x": -0.003,
+                "y": 0.2671
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2122,
+                "y": 0.6782
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0729,
+                "y": 0.6599
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0691,
+                "y": 0.1734
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0249,
+                "y": 0.2043
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0074,
+                "y": 0.2693
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0181,
+                "y": 0.3357
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0123,
+                "y": 0.3836
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": -0.0013,
+                "y": 0.2617
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0147,
+                "y": 0.3336
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0271,
+                "y": 0.3778
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0361,
+                "y": 0.4157
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0216,
+                "y": 0.2924
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.001,
+                "y": 0.3694
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0006,
+                "y": 0.3571
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": -0.0072,
+                "y": 0.3341
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0394,
+                "y": 0.3182
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0135,
+                "y": 0.3831
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.0144,
+                "y": 0.369
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0218,
+                "y": 0.3481
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0529,
+                "y": 0.3388
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0258,
+                "y": 0.3839
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0263,
+                "y": 0.3726
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0352,
+                "y": 0.3521
+            }
+        ],
+        "33": [
+            {
+                "joint": "nose",
+                "x": 0.0562,
+                "y": -0.1967
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2351,
+                "y": 0.0256
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0261,
+                "y": -0.0035
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2425,
+                "y": 0.4273
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.062,
+                "y": 0.2317
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1246,
+                "y": 0.5836
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.043,
+                "y": 0.2727
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0837,
+                "y": 0.7177
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.031,
+                "y": 0.3556
+            },
+            {
+                "joint": "left_index",
+                "x": 0.066,
+                "y": 0.6723
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0004,
+                "y": 0.3396
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.073,
+                "y": 0.6377
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0053,
+                "y": 0.3205
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.213,
+                "y": 0.6746
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0704,
+                "y": 0.6577
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0636,
+                "y": 0.2646
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0225,
+                "y": 0.2659
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.014,
+                "y": 0.3097
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0313,
+                "y": 0.3671
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0338,
+                "y": 0.4128
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0004,
+                "y": 0.3355
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0231,
+                "y": 0.4052
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0387,
+                "y": 0.4392
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0498,
+                "y": 0.4646
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0198,
+                "y": 0.3683
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0104,
+                "y": 0.4265
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0142,
+                "y": 0.4101
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0076,
+                "y": 0.3876
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0358,
+                "y": 0.3917
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.006,
+                "y": 0.4365
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": -0.003,
+                "y": 0.4181
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": -0.0099,
+                "y": 0.3973
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0467,
+                "y": 0.4082
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0206,
+                "y": 0.4387
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0173,
+                "y": 0.4245
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0244,
+                "y": 0.4084
+            }
+        ],
+        "34": [
+            {
+                "joint": "nose",
+                "x": 0.0574,
+                "y": -0.1969
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2354,
+                "y": 0.0285
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0243,
+                "y": -0.0025
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2424,
+                "y": 0.4332
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0643,
+                "y": 0.2613
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1237,
+                "y": 0.5994
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0376,
+                "y": 0.3223
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0835,
+                "y": 0.7171
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0209,
+                "y": 0.4075
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0658,
+                "y": 0.6708
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0104,
+                "y": 0.3836
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0729,
+                "y": 0.6375
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0151,
+                "y": 0.3652
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2145,
+                "y": 0.6744
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0701,
+                "y": 0.6579
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0661,
+                "y": 0.3094
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.025,
+                "y": 0.3021
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0129,
+                "y": 0.3395
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0348,
+                "y": 0.3843
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0431,
+                "y": 0.4226
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.003,
+                "y": 0.3744
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0273,
+                "y": 0.441
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0442,
+                "y": 0.4744
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0577,
+                "y": 0.4984
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0138,
+                "y": 0.4095
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0179,
+                "y": 0.4631
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0262,
+                "y": 0.4537
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.025,
+                "y": 0.4376
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.028,
+                "y": 0.4351
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": 0.0034,
+                "y": 0.4702
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0094,
+                "y": 0.4565
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0064,
+                "y": 0.4422
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0372,
+                "y": 0.4528
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0103,
+                "y": 0.4751
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0053,
+                "y": 0.4627
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0096,
+                "y": 0.4497
+            }
+        ],
+        "35": [
+            {
+                "joint": "nose",
+                "x": 0.0586,
+                "y": -0.1997
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2357,
+                "y": 0.0305
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0189,
+                "y": -0.0007
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2423,
+                "y": 0.4372
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0655,
+                "y": 0.2866
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1186,
+                "y": 0.6063
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0261,
+                "y": 0.3781
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0788,
+                "y": 0.7143
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.007,
+                "y": 0.4575
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0615,
+                "y": 0.6674
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0212,
+                "y": 0.4245
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0695,
+                "y": 0.636
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0242,
+                "y": 0.4036
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2139,
+                "y": 0.6743
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0637,
+                "y": 0.6578
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0626,
+                "y": 0.3577
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0239,
+                "y": 0.3458
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0124,
+                "y": 0.3676
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0367,
+                "y": 0.402
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.048,
+                "y": 0.4372
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.006,
+                "y": 0.4206
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0328,
+                "y": 0.4748
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0496,
+                "y": 0.5002
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0625,
+                "y": 0.5145
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0084,
+                "y": 0.4534
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0194,
+                "y": 0.5023
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0364,
+                "y": 0.5242
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0481,
+                "y": 0.5378
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0204,
+                "y": 0.4771
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": 0.0051,
+                "y": 0.5178
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0212,
+                "y": 0.5371
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0328,
+                "y": 0.5517
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0286,
+                "y": 0.4918
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0085,
+                "y": 0.5252
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": 0.0049,
+                "y": 0.5416
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": 0.0156,
+                "y": 0.5542
+            }
+        ],
+        "36": [
+            {
+                "joint": "nose",
+                "x": 0.0601,
+                "y": -0.2044
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2366,
+                "y": 0.0325
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0153,
+                "y": 0.0028
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2422,
+                "y": 0.4416
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0659,
+                "y": 0.321
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1129,
+                "y": 0.6053
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0165,
+                "y": 0.4271
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0748,
+                "y": 0.7019
+            },
+            {
+                "joint": "right_pinky",
+                "x": 0.0004,
+                "y": 0.4944
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0571,
+                "y": 0.6547
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0256,
+                "y": 0.4595
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0661,
+                "y": 0.5555
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0279,
+                "y": 0.4379
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2075,
+                "y": 0.68
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0525,
+                "y": 0.6636
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0588,
+                "y": 0.3947
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0249,
+                "y": 0.3783
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0118,
+                "y": 0.3916
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0363,
+                "y": 0.4179
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0478,
+                "y": 0.4489
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0079,
+                "y": 0.4533
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0342,
+                "y": 0.4996
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0473,
+                "y": 0.5186
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0548,
+                "y": 0.5288
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0047,
+                "y": 0.4806
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0203,
+                "y": 0.5237
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0341,
+                "y": 0.5424
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0424,
+                "y": 0.5545
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0172,
+                "y": 0.4993
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": 0.0047,
+                "y": 0.5392
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0179,
+                "y": 0.5588
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0268,
+                "y": 0.5735
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0284,
+                "y": 0.5101
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0121,
+                "y": 0.5466
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0012,
+                "y": 0.566
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": 0.0068,
+                "y": 0.5807
+            }
+        ],
+        "37": [
+            {
+                "joint": "nose",
+                "x": 0.0616,
+                "y": -0.2081
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2375,
+                "y": 0.0342
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0128,
+                "y": 0.0093
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2415,
+                "y": 0.4415
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0657,
+                "y": 0.3341
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1242,
+                "y": 0.5964
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0182,
+                "y": 0.4414
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.075,
+                "y": 0.6963
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0023,
+                "y": 0.5046
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0574,
+                "y": 0.6489
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0226,
+                "y": 0.4683
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0658,
+                "y": 0.5342
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0249,
+                "y": 0.4464
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2055,
+                "y": 0.6839
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0512,
+                "y": 0.6678
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0561,
+                "y": 0.4259
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0263,
+                "y": 0.4101
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0079,
+                "y": 0.414
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0317,
+                "y": 0.4328
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0463,
+                "y": 0.4579
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0089,
+                "y": 0.4817
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0316,
+                "y": 0.5192
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0419,
+                "y": 0.5394
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0486,
+                "y": 0.5526
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0025,
+                "y": 0.5046
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0187,
+                "y": 0.5422
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0296,
+                "y": 0.5608
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0368,
+                "y": 0.5745
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.015,
+                "y": 0.5195
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": 0.0027,
+                "y": 0.5571
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0136,
+                "y": 0.576
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0215,
+                "y": 0.5904
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0284,
+                "y": 0.5283
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0136,
+                "y": 0.5642
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.005,
+                "y": 0.5813
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": 0.0014,
+                "y": 0.5936
+            }
+        ],
+        "38": [
+            {
+                "joint": "nose",
+                "x": 0.0621,
+                "y": -0.2093
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2377,
+                "y": 0.0361
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0119,
+                "y": 0.0137
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2392,
+                "y": 0.4445
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0602,
+                "y": 0.3309
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1147,
+                "y": 0.6007
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0196,
+                "y": 0.4633
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0742,
+                "y": 0.6951
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0054,
+                "y": 0.5218
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0566,
+                "y": 0.6481
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0199,
+                "y": 0.4866
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0613,
+                "y": 0.5276
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0231,
+                "y": 0.4648
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.2014,
+                "y": 0.6899
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0481,
+                "y": 0.6706
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0538,
+                "y": 0.457
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0295,
+                "y": 0.4338
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0024,
+                "y": 0.4308
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0258,
+                "y": 0.4459
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0419,
+                "y": 0.4666
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0059,
+                "y": 0.5091
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0228,
+                "y": 0.5448
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0315,
+                "y": 0.5642
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0378,
+                "y": 0.5768
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0054,
+                "y": 0.5328
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0115,
+                "y": 0.569
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0207,
+                "y": 0.5857
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0264,
+                "y": 0.5978
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0173,
+                "y": 0.5486
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0024,
+                "y": 0.5838
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0063,
+                "y": 0.5987
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0123,
+                "y": 0.6111
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0295,
+                "y": 0.5592
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0152,
+                "y": 0.5922
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0085,
+                "y": 0.6048
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0044,
+                "y": 0.6144
+            }
+        ],
+        "39": [
+            {
+                "joint": "nose",
+                "x": 0.0622,
+                "y": -0.2096
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2377,
+                "y": 0.0371
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0116,
+                "y": 0.0172
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2386,
+                "y": 0.4453
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0557,
+                "y": 0.3315
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1106,
+                "y": 0.6109
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0204,
+                "y": 0.4849
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.074,
+                "y": 0.6968
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0057,
+                "y": 0.5437
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0558,
+                "y": 0.6504
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0187,
+                "y": 0.5069
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0614,
+                "y": 0.5894
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0199,
+                "y": 0.4824
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1984,
+                "y": 0.6965
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0463,
+                "y": 0.6735
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0484,
+                "y": 0.4744
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0262,
+                "y": 0.4522
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0036,
+                "y": 0.4478
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.026,
+                "y": 0.4602
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0424,
+                "y": 0.4778
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0055,
+                "y": 0.5141
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0219,
+                "y": 0.5437
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0307,
+                "y": 0.5643
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.0372,
+                "y": 0.5793
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": -0.0043,
+                "y": 0.5365
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0117,
+                "y": 0.5681
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0215,
+                "y": 0.5862
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0288,
+                "y": 0.6008
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0153,
+                "y": 0.5528
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": -0.0017,
+                "y": 0.5825
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0063,
+                "y": 0.5987
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0126,
+                "y": 0.6123
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0269,
+                "y": 0.564
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": -0.0148,
+                "y": 0.5908
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": -0.0082,
+                "y": 0.6048
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": -0.0037,
+                "y": 0.6163
+            }
+        ],
+        "40": [
+            {
+                "joint": "nose",
+                "x": 0.0623,
+                "y": -0.2096
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2376,
+                "y": 0.0371
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0115,
+                "y": 0.0174
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.239,
+                "y": 0.445
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0491,
+                "y": 0.3191
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1135,
+                "y": 0.6242
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0212,
+                "y": 0.5013
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0835,
+                "y": 0.7097
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0079,
+                "y": 0.5647
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0625,
+                "y": 0.6671
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0163,
+                "y": 0.5304
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0649,
+                "y": 0.577
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0178,
+                "y": 0.5042
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1928,
+                "y": 0.6923
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0418,
+                "y": 0.664
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0424,
+                "y": 0.4963
+            },
+            {
+                "joint": "right_thumb_cmc",
+                "x": -0.0241,
+                "y": 0.4752
+            },
+            {
+                "joint": "right_thumb_mcp",
+                "x": 0.0021,
+                "y": 0.467
+            },
+            {
+                "joint": "right_thumb_ip",
+                "x": 0.0232,
+                "y": 0.4724
+            },
+            {
+                "joint": "right_thumb_tip",
+                "x": 0.0397,
+                "y": 0.4867
+            },
+            {
+                "joint": "right_index_mcp",
+                "x": 0.0058,
+                "y": 0.5214
+            },
+            {
+                "joint": "right_index_pip",
+                "x": 0.0277,
+                "y": 0.5345
+            },
+            {
+                "joint": "right_index_dip",
+                "x": 0.0389,
+                "y": 0.5333
+            },
+            {
+                "joint": "right_index_tip",
+                "x": 0.045,
+                "y": 0.5305
+            },
+            {
+                "joint": "right_middle_mcp",
+                "x": 0.0004,
+                "y": 0.5444
+            },
+            {
+                "joint": "right_middle_pip",
+                "x": 0.0225,
+                "y": 0.558
+            },
+            {
+                "joint": "right_middle_dip",
+                "x": 0.0347,
+                "y": 0.5558
+            },
+            {
+                "joint": "right_middle_tip",
+                "x": 0.0411,
+                "y": 0.5513
+            },
+            {
+                "joint": "right_ring_mcp",
+                "x": -0.0059,
+                "y": 0.5612
+            },
+            {
+                "joint": "right_ring_pip",
+                "x": 0.0151,
+                "y": 0.5752
+            },
+            {
+                "joint": "right_ring_dip",
+                "x": 0.0267,
+                "y": 0.5731
+            },
+            {
+                "joint": "right_ring_tip",
+                "x": 0.0339,
+                "y": 0.5707
+            },
+            {
+                "joint": "right_pinky_mcp",
+                "x": -0.0128,
+                "y": 0.5734
+            },
+            {
+                "joint": "right_pinky_pip",
+                "x": 0.0054,
+                "y": 0.5877
+            },
+            {
+                "joint": "right_pinky_dip",
+                "x": 0.016,
+                "y": 0.5893
+            },
+            {
+                "joint": "right_pinky_tip",
+                "x": 0.0227,
+                "y": 0.5896
+            }
+        ],
+        "41": [
+            {
+                "joint": "nose",
+                "x": 0.0625,
+                "y": -0.2092
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2368,
+                "y": 0.0368
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0103,
+                "y": 0.017
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2398,
+                "y": 0.4446
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0455,
+                "y": 0.3127
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1151,
+                "y": 0.6389
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.022,
+                "y": 0.5247
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.089,
+                "y": 0.7287
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0088,
+                "y": 0.5996
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0664,
+                "y": 0.6907
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0157,
+                "y": 0.567
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0697,
+                "y": 0.6454
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0173,
+                "y": 0.5341
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1903,
+                "y": 0.6897
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0398,
+                "y": 0.6594
+            }
+        ],
+        "42": [
+            {
+                "joint": "nose",
+                "x": 0.0625,
+                "y": -0.209
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2355,
+                "y": 0.0357
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0095,
+                "y": 0.0168
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.24,
+                "y": 0.4442
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0421,
+                "y": 0.3127
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1151,
+                "y": 0.6429
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0222,
+                "y": 0.546
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0898,
+                "y": 0.7353
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0095,
+                "y": 0.6309
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0665,
+                "y": 0.6987
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0141,
+                "y": 0.6055
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0701,
+                "y": 0.6618
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0172,
+                "y": 0.5637
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1905,
+                "y": 0.6896
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0405,
+                "y": 0.6595
+            }
+        ],
+        "43": [
+            {
+                "joint": "nose",
+                "x": 0.0624,
+                "y": -0.2087
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2345,
+                "y": 0.0339
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0086,
+                "y": 0.0171
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2401,
+                "y": 0.4423
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0418,
+                "y": 0.3212
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1167,
+                "y": 0.64
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0226,
+                "y": 0.585
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0923,
+                "y": 0.7428
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0119,
+                "y": 0.6887
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0679,
+                "y": 0.7086
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0038,
+                "y": 0.6727
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0714,
+                "y": 0.6748
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0092,
+                "y": 0.6352
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.19,
+                "y": 0.69
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0385,
+                "y": 0.6618
+            }
+        ],
+        "44": [
+            {
+                "joint": "nose",
+                "x": 0.0622,
+                "y": -0.2082
+            },
+            {
+                "joint": "left_shoulder",
+                "x": 0.2335,
+                "y": 0.0335
+            },
+            {
+                "joint": "right_shoulder",
+                "x": 0.0081,
+                "y": 0.0169
+            },
+            {
+                "joint": "left_elbow",
+                "x": 0.2399,
+                "y": 0.4426
+            },
+            {
+                "joint": "right_elbow",
+                "x": -0.0406,
+                "y": 0.3221
+            },
+            {
+                "joint": "left_wrist",
+                "x": 0.1117,
+                "y": 0.6538
+            },
+            {
+                "joint": "right_wrist",
+                "x": -0.0227,
+                "y": 0.5913
+            },
+            {
+                "joint": "left_pinky",
+                "x": 0.0882,
+                "y": 0.7522
+            },
+            {
+                "joint": "right_pinky",
+                "x": -0.0123,
+                "y": 0.6974
+            },
+            {
+                "joint": "left_index",
+                "x": 0.0624,
+                "y": 0.7184
+            },
+            {
+                "joint": "right_index",
+                "x": 0.0014,
+                "y": 0.682
+            },
+            {
+                "joint": "left_thumb",
+                "x": 0.0666,
+                "y": 0.685
+            },
+            {
+                "joint": "right_thumb",
+                "x": 0.0074,
+                "y": 0.6443
+            },
+            {
+                "joint": "left_hip",
+                "x": 0.1902,
+                "y": 0.6913
+            },
+            {
+                "joint": "right_hip",
+                "x": 0.0383,
+                "y": 0.6642
+            }
+        ]
+    }
+}

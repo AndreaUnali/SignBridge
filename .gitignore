@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Generated output
+*.mp4
+video_*.mp4
+
+# User-provided audio input (keep the folder, ignore personal recordings)
+INPUT_AUDIO/*
+!INPUT_AUDIO/.gitkeep
+!INPUT_AUDIO/README.md
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment
+.env
+
+# Claude Code local settings
+.claude/
+
+# Internal working docs — not part of the published project
+LINKEDIN_POST.md
+NOTEBOOKLM_SOURCES.md
